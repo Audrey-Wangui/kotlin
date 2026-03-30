@@ -10,10 +10,11 @@ fun main(){
 
     // Accesing items of an array by use of  index
     println("Item on index three is: " + numbers[3])
+    
 
-    // Create assignment4.kt file and by use of for loop create an array of 7 counties and loop through them.
+    // Create assignment4.kt file and by 
     // on the book do  assignment on page 29 and 30
-    // research on functions without parameters in kotlin
+    
 
 
 }

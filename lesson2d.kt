@@ -13,7 +13,7 @@ fun main(){
    else if(marks >= 50 && marks < 70){
     println("Above average")
    }
-   else if{
+   else if(marks >70 && <100){
     println("You passed")
    }
    else{
